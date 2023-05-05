@@ -12,6 +12,6 @@ jobs:
       with:
         server: files.000webhost.com
         username: xefiacademy
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: Wanuke70
         server-dir: public_html/
         timeout: 90000
